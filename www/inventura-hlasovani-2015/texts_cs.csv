@@ -1,4 +1,4 @@
-code,text
+﻿code,text
 author,KohoVolit.eu
 description,"Spočítejte si shodu s poslanci a senátory"
 keywords,"parlament, volby, volební kalkulačka, volební test"
@@ -6,7 +6,7 @@ og:image,http://volebnikalkulacka.cz/image/logo.jpg
 calc,Inventura hlasování
 info,Info
 url,http://volebnikalkulacka.cz  
-title,Inventura hlasování 1. polovina 2015 |  Volební kalkulačka
+title,Inventura hlasování 2. polovina 2015 |  Volební kalkulačka
 author_link,http://kohovolit.eu
 licence,Creative Commons BY 4.0
 year,2015
@@ -14,7 +14,7 @@ footer_text,"Volební kalkulačky pro Vás již od roku 2006 vytváří sdružen
 ie8,Aplikace požaduje Internet Explorer vyšší verze než 8
 opera11,Aplikace požaduje prohlížeč Opera vyšší verze než 11
 google_analytics_code,UA-8592359-7
-calc_name,Inventura hlasování - Parlament 1. polovina 2015
+calc_name,Inventura hlasování - Parlament 2. polovina 2015
 page_question_yes,ANO
 page_question_no,NE
 page_question_neutral,nevím
